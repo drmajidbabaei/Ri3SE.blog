@@ -1,5 +1,5 @@
 title: "Majid Babaei"
-url: "http://www.majidbabaei.com/Ri3SE.blog"
+url: "http://www.majidbabaei.com"
 baseurl: ""
 username: majidbabaei
 twitter_username: drmbabaei
@@ -17,9 +17,9 @@ footer: yes
 
 nav:
   - name: "about"
-    link: "/"
+    link: "/Ri3SE.blog/"
   - name: "notes"
-    link: "/notes/"
+    link: "/Ri3SE.blog/notes/"
   # - name: "publications"
   #   link: "/publications"
   # - name: "open_source"
