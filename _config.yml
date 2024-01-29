@@ -1,8 +1,8 @@
-title: "João Pedro Dias"
-url: "https://jpdias.me"
+title: "Majid Babaei"
+url: "https://www.majidbabaei.com"
 baseurl: ""
-username: jpdias
-twitter_username: jpd1as
+username: majidbabaei
+twitter_username: drmbabaei
 profile_picture: /images/profile.jpg
 
 markdown: kramdown
@@ -11,7 +11,7 @@ highlighter: rouge
 paginate: 8
 paginate_path: "/notes/page:num/"
 
-plugins: [rouge,kramdown,jekyll-paginate]
+plugins: [rouge, kramdown, jekyll-paginate]
 
 footer: yes
 
@@ -20,66 +20,65 @@ nav:
     link: "/"
   - name: "notes"
     link: "/notes/"
-  - name: "publications"
-    link: "/publications"
+  # - name: "publications"
+  #   link: "/publications"
   # - name: "open_source"
   #   link: "/projects"
-  - name: "cv.pdf"
-    link: "/assets/jpdias.pdf"
-  - name: "contact"
-    link: "/contact"
+  # - name: "cv.pdf"
+  #   link: "/assets/jpdias.pdf"
+  # - name: "contact"
+  #   link: "/contact"
 
 social:
-  - name: twitter/jpd1as
+  - name: twitter/drmbabaei
     icon: ri-twitter-line
-    url: https://twitter.com/jpd1as
-  - name: mastodon/jpdias
-    icon: ri-mastodon-line
-    url: https://mastodon.social/@jpdias
-  - name: linkedin/joaopdias
+    url: https://twitter.com/drmbabaei
+  # - name: mastodon/jpdias
+  #   icon: ri-mastodon-line
+  #   url: https://mastodon.social/@jpdias
+  - name: linkedin/majidbabaei-com
     icon: ri-linkedin-box-line
-    url: https://www.linkedin.com/in/joaopdias/
-  - name: 500px/jpdias
-    icon: ri-camera-line
-    url: https://500px.com/jpdias
-  - name: github/jpdias
+    url: https://www.linkedin.com/majidbabaei-com
+  # - name: 500px/jpdias
+  #   icon: ri-camera-line
+  #   url: https://500px.com/jpdias
+  - name: github/drmajidbabaei
     icon: ri-github-line
-    url: https://github.com/jpdias
-  - name: gitlab/joaopdias
-    icon: ri-gitlab-line
-    url: https://gitlab.com/joaopdias
-  - name: speakerdeck/jpd1as
-    icon: ri-slideshow-line
-    url: https://speakerdeck.com/jpdias
-
-academic:
-  - name: orcid/0000-0001-9066-6436
-    icon: ai ai-orcid
-    url: https://orcid.org/0000-0001-9066-6436
-  - name: gscholar/sQ2vKI0AAAAJ
-    icon: ai ai-google-scholar
-    url: https://scholar.google.pt/citations?user=sQ2vKI0AAAAJ
-  - name: dblp/d/Dias:Jo=atilde=o_Pedro
-    icon: ai ai-dblp
-    url: http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dias:Jo=atilde=o_Pedro.html
-  - name: publons/1883812/joao-pedro-dias
-    icon: ai ai-publons
-    url: https://publons.com/researcher/1883812/joao-pedro-dias/
-  - name: scopus/57194725990
-    icon: ai ai-scopus
-    url: http://www.scopus.com/authid/detail.uri?authorId=57194725990
-  - name: researchGate/Joao_Dias29
-    icon: ai ai-researchgate
-    url: https://www.researchgate.net/profile/Joao_Dias29
-  - name: mendeley/joo-pedro-dias
-    icon: ai ai-mendeley
-    url: https://www.mendeley.com/profiles/joo-pedro-dias/
-  - name: acm/99659321244
-    icon: ai ai-acm
-    url: https://dl.acm.org/author_page.cfm?id=99659321244
-  - name: arXiv/Dias%2C+J+P
-    icon: ai ai-arxiv
-    url: https://arxiv.org/search/cs?searchtype=author&query=Dias%2C+J+P
-  - name: Ciência ID/1C1D-2179-32EC
-    icon: ai ai-ciencia-vitae
-    url: https://www.cienciavitae.pt/portal/pt/1C1D-2179-32EC
+    url: https://github.com/drmajidbabaei
+  # - name: gitlab/joaopdias
+  #   icon: ri-gitlab-line
+  #   url: https://gitlab.com/joaopdias
+  # - name: speakerdeck/jpd1as
+  #   icon: ri-slideshow-line
+  #   url: https://speakerdeck.com/jpdias
+# academic:
+#   - name: orcid/0000-0001-9066-6436
+#     icon: ai ai-orcid
+#     url: https://orcid.org/0000-0001-9066-6436
+#   - name: gscholar/sQ2vKI0AAAAJ
+#     icon: ai ai-google-scholar
+#     url: https://scholar.google.pt/citations?user=sQ2vKI0AAAAJ
+#   - name: dblp/d/Dias:Jo=atilde=o_Pedro
+#     icon: ai ai-dblp
+#     url: http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dias:Jo=atilde=o_Pedro.html
+#   - name: publons/1883812/joao-pedro-dias
+#     icon: ai ai-publons
+#     url: https://publons.com/researcher/1883812/joao-pedro-dias/
+#   - name: scopus/57194725990
+#     icon: ai ai-scopus
+#     url: http://www.scopus.com/authid/detail.uri?authorId=57194725990
+#   - name: researchGate/Joao_Dias29
+#     icon: ai ai-researchgate
+#     url: https://www.researchgate.net/profile/Joao_Dias29
+#   - name: mendeley/joo-pedro-dias
+#     icon: ai ai-mendeley
+#     url: https://www.mendeley.com/profiles/joo-pedro-dias/
+#   - name: acm/99659321244
+#     icon: ai ai-acm
+#     url: https://dl.acm.org/author_page.cfm?id=99659321244
+#   - name: arXiv/Dias%2C+J+P
+#     icon: ai ai-arxiv
+#     url: https://arxiv.org/search/cs?searchtype=author&query=Dias%2C+J+P
+#   - name: Ciência ID/1C1D-2179-32EC
+#     icon: ai ai-ciencia-vitae
+#     url: https://www.cienciavitae.pt/portal/pt/1C1D-2179-32EC

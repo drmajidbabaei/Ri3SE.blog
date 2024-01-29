@@ -1,7 +1,7 @@
 :root {
-  --main-headers-color: #fe5c35;
+  --main-headers-color: hsla(104, 81%, 55%, 0.877);
   --main-bg-color: #202020;
-  --main-font-color: rgba(255, 255, 255, 0.8);
+  --main-font-color: rgba(255, 255, 255, 0.958);
   --hr-border-settings: 2px solid rgba(255, 255, 255, 0.3);
   --code-bg-color: #1c1a1a;
   --code-font-color: #d0d0d0;

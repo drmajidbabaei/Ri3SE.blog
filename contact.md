@@ -6,16 +6,15 @@ title: "./jpdias/contact"
 
 ## Contact
 
-<i class="far fa-envelope"></i> Email: [jpdias[at]outlook.com](mailto:jpdias@outlook.com)
+<i class="far fa-envelope"></i> Email: [majid.babaei[at]mcgill.ca](mailto:majid.babaei@mcgill.ca)
 
 ### Address
 
-> João Pedro Dias
+> Majid Babaei
 >
-> Department of Informatics Engineering;
-> University of Porto – Faculty of Engineering;
-> Rua Dr. Roberto Frias, s/n;
-> 4200-465 Porto, Portugal
+> McGill University,
+> 680 Sherbrooke St W 13th Floor, RM#1323
+> Montréal, QC, Canada H3A 2M7
 
 ### Social
 
